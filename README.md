@@ -1,4 +1,4 @@
-## Hi,it's Aryash 👋
+
 # Hi there, I'm Aryash Gupta 👋  
 
 Welcome to my GitHub profile!  
