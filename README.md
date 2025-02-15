@@ -1,29 +1,40 @@
+# Hi there, I'm Aryash! 👋
 
-# Hi there, I'm Aryash Gupta 👋  
+## About Me
 
-Welcome to my GitHub profile!  
+- 🌱 I’m currently learning and exploring new technologies.
+- 👯 I’m looking to collaborate on interesting open-source projects.
+- 💬 Ask me about anything tech-related, I'm always up for a chat!
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
 
-## 👨‍💻 About Me  
-- 🎓 **Undergraduate Computer Science Student** at [K.R. Mangalam University](https://www.krmangalam.edu.in).  
-- 💻 Passionate about coding, problem-solving, and exploring the latest technologies.  
-- 📊 Currently enhancing my skills in data analysis, data structures and algorithms, and web development.  
+## Skills
 
-## 🔧 Technologies & Tools  
-- **Programming Languages:** Python 
-- **Tools & Platforms:** Power BI, VS Code, Git, GitHub  
-- **Data Skills:** EDA, Data Visualization, SQL, 
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Spring Boot
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
-## 🌱 What I'm Working On  
-- 📈 Building insightful Power BI dashboards.  
-- 🔍 Exploring the field of machine learning and artificial intelligence and technology.  
-- 💡 Participating in coding challenges and hackathons.
--  Creating Insightful Projects on Real World Challenges  .
+## Projects
 
-## 📫 How to Reach Me  
-- 📩 Email: [aryashgupta281@gmail.com](https://mail.google.com/mail/u/1/#inbox)  
-- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aryash-gupta-8898bb30a/)  
+### Project 1
+Description of project 1 with a link to the repository.
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me!  
+### Project 2
+Description of project 2 with a link to the repository.
+
+### Project 3
+Description of project 3 with a link to the repository.
+
+## GitHub Stats
+
+![Aryash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aryash45)
+- [Twitter](https://twitter.com/aryash45)
+
+
 
 
 
