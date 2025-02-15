@@ -9,10 +9,10 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Spring Boot
+- **Languages:** Python, Html,Css, Javascript, C++
+- **Frameworks:** React, Flask,
 - **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, Pandas, PostgreSQL
 
 ## Projects
 
