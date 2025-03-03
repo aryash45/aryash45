@@ -1,38 +1,42 @@
-# Hi there, I'm Aryash! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ARYASH GUPTA
+====================================================================================================================================
 
-## About Me
+Full-Stack Developer | AI/ML Engineer | Future Innovator
+--------------------------------------------------------
 
-- 🌱 I’m currently learning and exploring new technologies.
-- 👯 I’m looking to collaborate on interesting open-source projects.
-- 💬 Ask me about anything tech-related, I'm always up for a chat!
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+Hey there! 👋 I'm Aryash Gupta, a passionate AI/ML Enthusiast, Web Developer, and Designer who loves building innovative projects that blend technology and creativity. My journey in tech revolves around problem-solving, futuristic web experiences, and AI-driven solutions. 💡 I thrive on innovation, whether it's developing AI-powered applications, crafting immersive web interfaces with Three.js & GSAP, or participating in hackathons to push my limits. 🌱 Currently, I’m diving deeper into AI & ML, exploring NLP, Computer Vision, and integrating AI into real-world applications. I also enjoy experimenting with full-stack development, combining React, Tailwind CSS, Flask, and Firebase to create dynamic web experiences.
 
-## Skills
+* 🌍  I'm based in India
+* ✉️  You can contact me at [aryashgupta281@gmail.com](mailto:aryashgupta281@gmail.com)
+* 🧠  I'm learning React,Next.js,Three.js & GSAP,DSA ,Ml(Machine Learning)
+* 🤝  I'm open to collaborating on Interesting & Cool Projects
 
-- **Languages:** Python, Html,Css, Javascript, C++
-- **Frameworks:** React, Flask,
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, Pandas, PostgreSQL
+<a href="https://www.github.com/aryash45" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aryash45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
 
-## Projects
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
 
-### Project 1
-Description of project 1 with a link to the repository.
+### Socials
 
-### Project 2
-Description of project 2 with a link to the repository.
+<p align="left"> <a href="https://www.github.com/aryash45" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aryashgupta24/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aryash-gupta-8898bb30a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@aryashgupta281" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-### Project 3
-Description of project 3 with a link to the repository.
+<b>My GitHub Stats</b>
 
-## GitHub Stats
+<a href="http://www.github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aryash45's GitHub stats" /></a>
 
-![Aryash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&theme=radical)
+<a href="http://www.github.com/aryash45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryash45&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Connect with Me
+<a href="http://www.github.com/aryash45"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryash45&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-- [LinkedIn](https://www.linkedin.com/in/aryash45)
-- [Twitter](https://twitter.com/aryash45)
+<a href="https://github.com/aryash45" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/aryash45/AI-Jarvis-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=AI-Jarvis-Model&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aryash45/frontend-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=frontend-projects&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 
