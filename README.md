@@ -1,44 +1,224 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ARYASH GUPTA
-====================================================================================================================================
+# <div align="center">👋 Hi, I'm Aryash Gupta</div>
 
-Full-Stack Developer | AI/ML Engineer | Future Innovator
---------------------------------------------------------
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Building+The+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Hey there! 👋 I'm Aryash Gupta, a passionate AI/ML Enthusiast, Web Developer, and Designer who loves building innovative projects that blend technology and creativity. My journey in tech revolves around problem-solving, futuristic web experiences, and AI-driven solutions. 💡 I thrive on innovation, whether it's developing AI-powered applications, crafting immersive web interfaces with Three.js & GSAP, or participating in hackathons to push my limits. 🌱 Currently, I’m diving deeper into AI & ML, exploring NLP, Computer Vision, and integrating AI into real-world applications. I also enjoy experimenting with full-stack development, combining React, Tailwind CSS, Flask, and Firebase to create dynamic web experiences.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [aryashgupta281@gmail.com](mailto:aryashgupta281@gmail.com)
-* 🧠  I'm learning React,Next.js,Three.js & GSAP,DSA ,Ml(Machine Learning)
-* 🤝  I'm open to collaborating on Interesting & Cool Projects
+![](https://komarev.com/ghpvc/?username=aryash45&color=F97316&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/aryash45?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/aryash45)
 
-<a href="https://www.github.com/aryash45" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aryash45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+---
 
-### Socials
+## 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/aryash45" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aryashgupta24/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aryash-gupta-8898bb30a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@aryashgupta281" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+```typescript
+const aryash = {
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer & AI/ML Engineer",
+    currentFocus: ["AI/ML", "NLP", "Computer Vision", "Next.js"],
+    interests: ["Three.js", "GSAP Animations", "Web3", "Competitive Programming"],
+    funFact: "I turn coffee into code ☕️ → 💻",
+    lifeGoal: "Building intelligent systems that make a difference 🌟"
+};
+```
 
-<b>My GitHub Stats</b>
+💡 I'm passionate about creating **intelligent applications** and **immersive web experiences** that push boundaries. Whether it's developing AI-powered solutions, crafting stunning UI with Three.js & GSAP, or participating in hackathons - I'm always ready for the next challenge!
 
-<a href="http://www.github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aryash45's GitHub stats" /></a>
+🎯 **Open to:** Collaborations, Internships, Freelance Projects & Open Source Contributions
 
-<a href="http://www.github.com/aryash45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryash45&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/aryash45"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aryash45&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🛠️ Tech Arsenal
 
-<a href="https://github.com/aryash45" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-<b>Top Repositories</b>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div width="100%" align="center"><a href="https://github.com/aryash45/AI-Jarvis-Model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=AI-Jarvis-Model&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aryash45/frontend-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=frontend-projects&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
+### Backend & Database
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryash45&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&theme=react-dark&hide_border=true&bg_color=0D1117&color=F97316&line=0891b2&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryash45&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aryash45/AI-Jarvis-Model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=AI-Jarvis-Model&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
+</a>
+
+<a href="https://github.com/aryash45/frontend-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=frontend-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+```javascript
+const currentProjects = {
+    learning: [
+        "Advanced Machine Learning algorithms",
+        "Next.js 14 with Server Actions",
+        "Three.js & WebGL for 3D experiences",
+        "Data Structures & Algorithms"
+    ],
+    building: [
+        "AI-powered web applications",
+        "Interactive portfolio with Three.js",
+        "ML models for real-world problems"
+    ],
+    exploring: [
+        "Generative AI & LLMs",
+        "Web3 & Blockchain",
+        "Cloud Architecture"
+    ]
+};
+```
+
+---
+
+## 🎨 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@aryash45&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" alt="Wakatime Stats" />
+
+</div>
+
+---
+
+## 🎓 Achievements & Certifications
+
+<div align="center">
+
+🥇 **Hackathon Participant** | 🏆 **Problem Solver** | 🎯 **Open Source Contributor**
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryash-gupta-8898bb30a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryash45)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryashgupta281)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryashgupta24/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryashgupta281@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Watch My Contribution Graph Get Eaten
+
+<div align="center">
+  
+![snake gif](https://github.com/aryash45/aryash45/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
