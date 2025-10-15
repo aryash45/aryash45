@@ -43,7 +43,7 @@ const aryash = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Move](
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,14 +53,12 @@ const aryash = {
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 ### Backend & Database
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,8 +69,7 @@ const aryash = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 </div>
 
 ---
@@ -117,11 +114,11 @@ const aryash = {
 
 ---
 
-## 📈 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&custom_title=Aryash's%20Contribution%20Graph&bg_color=0D1117&color=F97316&line=0891b2&point=FFFFFF&area_color=0D1117&title_color=F97316&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -134,12 +131,12 @@ const currentProjects = {
     learning: [
         "Advanced Machine Learning algorithms",
         "Next.js 14 with Server Actions",
-        "Three.js & WebGL for 3D experiences",
+        "Blockchain & Web3",
         "Data Structures & Algorithms"
     ],
     building: [
         "AI-powered web applications",
-        "Interactive portfolio with Three.js",
+        "Decentrailized Apps With Onchain PLatforms",
         "ML models for real-world problems"
     ],
     exploring: [
@@ -156,10 +153,7 @@ const currentProjects = {
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@aryash45&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" alt="Wakatime Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryash45&theme=radical" alt="Coding Activity"/>
 
 </div>
 
@@ -184,8 +178,7 @@ const currentProjects = {
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryashgupta281)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryashgupta24/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryashgupta281@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AryashGupt8817)
 
 </div>
 
@@ -201,14 +194,6 @@ const currentProjects = {
 
 ---
 
-## 🐍 Watch My Contribution Graph Get Eaten
-
-<div align="center">
-  
-![snake gif](https://github.com/aryash45/aryash45/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 <div align="center">
@@ -218,7 +203,5 @@ const currentProjects = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
