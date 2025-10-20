@@ -43,7 +43,7 @@ const aryash = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Move](
+
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,7 +69,7 @@ const aryash = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+
 </div>
 
 ---
@@ -102,12 +102,12 @@ const aryash = {
 
 <div align="center">
 
-<a href="https://github.com/aryash45/AI-Jarvis-Model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=AI-Jarvis-Model&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
+<a href="https://github.com/aryash45/DeFi-Loan-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=DeFi-Loan-Project&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
 </a>
 
-<a href="https://github.com/aryash45/frontend-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=frontend-projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
+<a href="https://github.com/aryash45/docucheck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryash45&repo=docucheck&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=0891b2" />
 </a>
 
 </div>
