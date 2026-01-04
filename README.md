@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-![](https://komarev.com/ghpvc/?username=aryash45&color=F97316&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aryash45&color=F97316&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/aryash45?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/aryash45)
 
 </div>
@@ -43,7 +43,6 @@ const aryash = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -136,7 +135,7 @@ const currentProjects = {
     ],
     building: [
         "AI-powered web applications",
-        "Decentrailized Apps With Onchain PLatforms",
+        "Decentralized Apps with Onchain Platforms",
         "ML models for real-world problems"
     ],
     exploring: [
@@ -178,7 +177,7 @@ const currentProjects = {
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aryashgupta281)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryashgupta24/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryashgupta281@gmail.com)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AryashGupt8817)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AryashGupt8817)
 
 </div>
 
@@ -191,8 +190,6 @@ const currentProjects = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
 
 ---
 
