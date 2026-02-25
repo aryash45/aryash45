@@ -137,11 +137,7 @@ const aryashGupta = {
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="Aryash's GitHub Stats" /> 
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryash45&layout=compact&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117" alt="Coding Stats" />
-
-</div>
+<img width="98%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="Aryash's GitHub Stats" />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&theme=react-dark&bg_color=0d1117&color=F97316&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%"/>
