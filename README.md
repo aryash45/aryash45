@@ -2,9 +2,9 @@
 
 # 👋 Welcome to Aryash's Digital Universe
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Welcome banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Blockchain+Enthusiast+%E2%9B%93;Problem+Solver+%F0%9F%A7%A9;Building+Tomorrow's+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A6%96;Web3+Builder+%E2%9C%A8;Problem+Solver+%F0%9F%94%8D)](https://github.com/aryash45)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryash45&label=Profile%20Views&color=F97316&style=for-the-badge" alt="Profile Views" />
@@ -25,19 +25,19 @@ const aryashGupta = {
   pronouns: "He" | "Him",
   location: "New Delhi, India 🇮🇳",
   education: "Computer Science Student",
-  
+
   currentRole: {
     title: "Full-Stack Developer & AI/ML Engineer",
     focus: ["AI/ML", "Web3", "Next.js 14", "Computer Vision"]
   },
-  
+
   passions: [
     "Building intelligent systems 🧠",
     "Creating immersive web experiences 🎨",
     "Solving complex problems 🔍",
     "Contributing to open source 💻"
   ],
-  
+
   technologies: {
     frontend: ["React", "Next.js", "Three.js", "GSAP", "TailwindCSS"],
     backend: ["Node.js", "Express", "MongoDB", "Firebase"],
@@ -45,16 +45,16 @@ const aryashGupta = {
     blockchain: ["Aptos Move", "Rust", "Solana", "Web3.js"],
     languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "Rust"]
   },
-  
+
   currentlyLearning: ["Advanced ML Algorithms", "Blockchain Development", "Cloud Architecture"],
-  lookingFor: "Internship opportunities & exciting collaborations",
-  funFact: "I debug with console.log() and I'm not ashamed! 😎"
+  lookingFor: "Internship opportunities and exciting collaborations",
+  funFact: "I debug with console.log() and I am not ashamed 😎"
 };
 ```
 
 <br clear="right"/>
 
-💡 I'm on a mission to **build technology that matters**. From crafting AI-powered applications to developing decentralized solutions, I love turning complex problems into elegant code. Always eager to learn, collaborate, and push the boundaries of what's possible!
+💡 I am on a mission to build technology that matters. From crafting AI-powered applications to developing decentralized solutions, I love turning complex problems into elegant code. I am always eager to learn, build, and contribute.
 
 🎯 **Currently Open For:** Internships | Freelance Projects | Collaborations | Open Source Contributions
 
@@ -67,66 +67,66 @@ const aryashGupta = {
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### 🤖 AI/ML & Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ### ⛓️ Blockchain & Web3
 
 <p>
-  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Move-4E9BCD?style=for-the-badge&logo=move&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white" alt="Aptos" />
+  <img src="https://img.shields.io/badge/Move-4E9BCD?style=for-the-badge&logo=move&logoColor=white" alt="Move" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 </div>
@@ -136,15 +136,15 @@ const aryashGupta = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="98%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="Aryash's GitHub Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&theme=react-dark&bg_color=0d1117&color=F97316&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+<img width="98%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&theme=react-dark&bg_color=0d1117&color=F97316&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" />
 
 </div>
 
 ---
-  
+
 ### 💼 More Amazing Projects Coming Soon...
 
 Check out all my repositories for more exciting projects! 👇
@@ -157,7 +157,7 @@ Check out all my repositories for more exciting projects! 👇
 
 ## 💡 What I'm Currently Working On
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Working" />
 
 ### 🎯 Learning
 
@@ -205,21 +205,21 @@ Check out all my repositories for more exciting projects! 👇
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" />
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" alt="Trophy" />
 <br />
 <strong>🏆 Hackathon Participant</strong>
 <br />
 <sub>Multiple hackathons</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/brain.png" width="80" />
+<img src="https://img.icons8.com/color/96/000000/brain.png" width="80" alt="Brain" />
 <br />
 <strong>🧠 Problem Solver</strong>
 <br />
 <sub>300+ problems solved</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/source-code.png" width="80" />
+<img src="https://img.icons8.com/color/96/000000/source-code.png" width="80" alt="Source Code" />
 <br />
 <strong>💻 Open Source</strong>
 <br />
@@ -255,17 +255,17 @@ Check out all my repositories for more exciting projects! 👇
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br/><br/>
+<br /><br />
 
 ### 📧 Let's Collaborate!
 
-I'm always open to interesting conversations and collaboration opportunities!
+I am always open to interesting conversations and collaboration opportunities.
 
 Feel free to reach out if you want to:
 - 🤝 Collaborate on a project
 - 💡 Discuss tech & innovation
 - 🚀 Build something amazing together
-- 📚 Share knowledge & learn
+- 📚 Share knowledge and learn
 
 </div>
 
@@ -284,14 +284,14 @@ Feel free to reach out if you want to:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>⚠️ Note: Snake animation requires GitHub Actions setup. <a href="https://github.com/Platane/snk">Click here for setup guide</a></sub>
+<sub>⚠️ Note: The snake animation requires GitHub Actions setup. <a href="https://github.com/Platane/snk">Click here for the setup guide</a>.</sub>
 
 </div>
 
@@ -299,20 +299,20 @@ Feel free to reach out if you want to:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer banner" />
 
 ### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
 
-<br/>
+<br />
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
+<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl+C Ctrl+V" />
 
-<br/><br/>
+<br /><br />
 
 **⭐️ From [aryash45](https://github.com/aryash45) | Let's build the future together! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" alt="Thanks for visiting" />
 
 </div>
