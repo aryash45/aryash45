@@ -6,12 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A6%96;Web3+Builder+%E2%9C%A8;Problem+Solver+%F0%9F%94%8D)](https://github.com/aryash45)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryash45&label=Profile%20Views&color=F97316&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aryash45?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/aryash45?label=Total%20Stars&style=for-the-badge&color=F97316&labelColor=1c1917&logo=github" alt="Total Stars" />
-</p>
-
 </div>
 
 ---
@@ -137,19 +131,19 @@ const aryashGupta = {
 
 <div align="center">
 
-<img width="98%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&line_height=27)](https://github.com/aryash45)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryash45&theme=react-dark&bg_color=0d1117&color=F97316&line=0891b2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution+Graph" alt="Contribution Graph" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryash45&theme=dark&hide_border=true&stroke=0891b2&ring=F97316&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0891b2&sideLabels=0891b2&dates=c9d1d9)](https://github.com/aryash45)
 
 </div>
 
 ---
 
-### 💼 More Amazing Projects Coming Soon...
+## 🏆 Achievements
 
-Check out all my repositories for more exciting projects! 👇
+<div align="center">
 
-[![View All Repositories](https://img.shields.io/badge/View%20All%20Repositories-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryash45?tab=repositories)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aryash45&theme=dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/aryash45)
 
 </div>
 
@@ -189,10 +183,7 @@ Check out all my repositories for more exciting projects! 👇
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryash45&theme=radical" alt="Profile Details" width="98%" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryash45&theme=radical" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryash45&theme=radical" alt="Most Commit Language" />
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=dark&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117)](https://github.com/aryash45)
 
 </div>
 
@@ -281,22 +272,6 @@ Feel free to reach out if you want to:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aryash45/aryash45/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>⚠️ Note: The snake animation requires GitHub Actions setup. <a href="https://github.com/Platane/snk">Click here for the setup guide</a>.</sub>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer banner" />
@@ -310,9 +285,5 @@ Feel free to reach out if you want to:
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl+C Ctrl+V" />
 
 <br /><br />
-
-**⭐️ From [aryash45](https://github.com/aryash45) | Let's build the future together! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" alt="Thanks for visiting" />
 
 </div>
