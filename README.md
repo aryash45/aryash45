@@ -143,7 +143,7 @@ const aryashGupta = {
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=aryash45&theme=dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/aryash45)
+[![GitHub Trophy](https://trophy.ryglcloud.net/?username=aryash45&theme=dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/aryash45)
 
 </div>
 
