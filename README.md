@@ -189,6 +189,20 @@ const aryashGupta = {
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryash45/aryash45/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aryash45/aryash45/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎓 Achievements & Milestones
 
 <div align="center">
