@@ -131,9 +131,9 @@ const aryashGupta = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/aryash45)
+[![GitHub Stats](https://github-readme-stats-sigma.vercel.app/api?username=aryash45&show_icons=true&count_private=true&hide_border=true&title_color=F97316&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/aryash45)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryash45&theme=dark&hide_border=true&stroke=0891b2&ring=F97316&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=F97316)](https://github.com/aryash45)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryash45&theme=dark&hide_border=true&background=0d1117&stroke=0891b2&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://github.com/aryash45)
 
 </div>
 
@@ -183,7 +183,7 @@ const aryashGupta = {
 
 <div align="center">
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=dark&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117)](https://github.com/aryash45)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryash45&theme=dark)](https://github.com/aryash45)
 
 </div>
 
