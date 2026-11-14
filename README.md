@@ -131,7 +131,7 @@ const aryashGupta = {
 
 <div align="center">
 
-<a href="https://github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&theme=dark&hide_border=true" alt="Aryash's GitHub stats" /></a>
+<a href="https://github.com/aryash45"><img src="https://github-stats-extended.vercel.app/api?username=aryash45&show_icons=true&theme=dark&hide_border=true" alt="Aryash's GitHub stats" /></a>
 
 <a href="https://github.com/aryash45"><img src="https://streak-stats.demolab.com?user=aryash45&theme=dark&hide_border=true" alt="Aryash's GitHub streak" /></a>
 
@@ -183,7 +183,7 @@ const aryashGupta = {
 
 <div align="center">
 
-<a href="https://github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=dark&hide_border=true" alt="Aryash's most used languages" /></a>
+<a href="https://github.com/aryash45"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=dark&hide_border=true" alt="Aryash's most used languages" /></a>
 
 </div>
 
