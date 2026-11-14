@@ -131,9 +131,9 @@ const aryashGupta = {
 
 <div align="center">
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Open%20Profile-181717?logo=github&style=for-the-badge)](https://github.com/aryash45)
+<a href="https://github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api?username=aryash45&show_icons=true&theme=dark&hide_border=true" alt="Aryash's GitHub stats" /></a>
 
-[![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Open%20Profile-181717?logo=github&style=for-the-badge)](https://github.com/aryash45)
+<a href="https://github.com/aryash45"><img src="https://streak-stats.demolab.com?user=aryash45&theme=dark&hide_border=true" alt="Aryash's GitHub streak" /></a>
 
 </div>
 
@@ -183,7 +183,7 @@ const aryashGupta = {
 
 <div align="center">
 
-[![Most Used Languages](https://img.shields.io/badge/Most%20Used%20Languages-Open%20Profile-181717?logo=github&style=for-the-badge)](https://github.com/aryash45)
+<a href="https://github.com/aryash45"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryash45&layout=compact&theme=dark&hide_border=true" alt="Aryash's most used languages" /></a>
 
 </div>
 
